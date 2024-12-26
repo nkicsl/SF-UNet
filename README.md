@@ -1,6 +1,6 @@
 # Spatial-Frequency Dual Domain Attention Network For Medical Image Segmentation
-Official implementation the BIBM 2024 paper 'Spatial-Frequency Dual Domain Attention Network For Medical Image Segmentation'
-![SF_UNet](./SF_UNet.png)
+Official implementation the BIBM 2024 paper 《Spatial-Frequency Dual Domain Attention Network For Medical Image Segmentation》
+![SF_UNet](./SF-UNet.png)
 
 ## Citation
 If you used SF_UNet in your own research, please give us a star and cite our paper below:
